@@ -471,6 +471,10 @@ providing a length property for a collection class.
 
 ## CSS
 
+### Sass
+
+[ Sass Style Guide on CSS-Tricks](http://css-tricks.com/sass-style-guide/)
+
 ### Naming conventions
 
 **Class names should be specific**
